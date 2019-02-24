@@ -1,3 +1,6 @@
+### POINTS: 0
+### KEY: No submission :-(
+
 # Django Models and Foreign keys
 
 ### Exercise 1
